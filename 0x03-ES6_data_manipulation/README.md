@@ -1,0 +1,1 @@
+JavaScript arrays huh? how come it took so long
