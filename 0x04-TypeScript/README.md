@@ -1,0 +1,1 @@
+Typescript looks a lot more complicated than I thought it would be
