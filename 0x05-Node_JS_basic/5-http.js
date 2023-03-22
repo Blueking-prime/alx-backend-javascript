@@ -3,7 +3,7 @@ const http = require('http');
 const hostname = '0.0.0.0';
 const port = 1245;
 
-function countStudents (path) {
+function countStudents(path) {
   const fs = require('fs');
   return new Promise((resolve, reject) => {
     fs.readFile(path, 'utf-8', function (err, data) {

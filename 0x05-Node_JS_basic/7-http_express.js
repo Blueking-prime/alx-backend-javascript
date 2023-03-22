@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 const port = 1245;
 
-function countStudents (path) {
+function countStudents(path) {
   const fs = require('fs');
   return new Promise((resolve, reject) => {
     fs.readFile(path, 'utf-8', function (err, data) {

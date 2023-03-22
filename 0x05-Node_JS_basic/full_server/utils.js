@@ -1,5 +1,6 @@
-function readDatabase (path) {
-  const fs = require('fs');
+const fs = require('fs');
+
+function readDatabase(path) {
   return new Promise((resolve, reject) => {
     fs.readFile(path, 'utf-8', function (err, data) {
       if (err) {
