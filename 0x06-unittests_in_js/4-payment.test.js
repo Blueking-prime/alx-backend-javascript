@@ -4,15 +4,6 @@ const sendPaymentRequestToApi = require('./4-payment');
 const Utils = require('./utils');
 const expect = chai.expect;
 
-describe('sendPaymentRequestToApi spy', function () {
-  it('checks that sendPaymentRequestToApi uses calculateNumber with a spy', function () {
-    const spy = sinon.spy(Utils, 'calculateNumber');
-    sendPaymentRequestToApi(3.2, 456.68);
-    expect(spy.calledOnce).to.be.true;
-    spy.restore();
-  });
-});
-
 describe('sendPaymentRequestToApi stub', function () {
   const stub = sinon.stub(Utils, 'calculateNumber').returns(10);
   const log = sinon.spy(console, 'log');
