@@ -1,0 +1,34 @@
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:4:1: 'describe' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:5:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:6:45: Expected error to be handled.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:11:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:12:45: Expected error to be handled.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:17:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:18:45: Expected error to be handled.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:24:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:25:59: Expected error to be handled.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:32:1: 'describe' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:33:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:34:53: Expected error to be handled.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:39:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:40:53: Expected error to be handled.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:45:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:46:45: Expected error to be handled.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:52:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:53:51: Expected error to be handled.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:60:1: 'describe' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:61:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:62:64: Expected error to be handled.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:67:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:68:64: Expected error to be handled.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:78:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:79:45: Expected error to be handled.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:86:1: 'describe' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:94:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:95:23: Expected error to be handled.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:100:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:101:23: Expected error to be handled.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:106:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:107:23: Expected error to be handled.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:113:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/10-api/api.test.js:119:23: Expected error to be handled.

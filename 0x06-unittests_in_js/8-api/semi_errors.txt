@@ -1,0 +1,9 @@
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/8-api/api.test.js:4:1: 'describe' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/8-api/api.test.js:5:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/8-api/api.test.js:6:45: Expected error to be handled.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/8-api/api.test.js:11:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/8-api/api.test.js:12:45: Expected error to be handled.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/8-api/api.test.js:17:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/8-api/api.test.js:18:45: Expected error to be handled.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/8-api/api.test.js:24:3: 'it' is not defined.
+  /home/king/Documents/GitHub_2/alx-backend-javascript/0x06-unittests_in_js/8-api/api.test.js:26:16: Empty block statement.
